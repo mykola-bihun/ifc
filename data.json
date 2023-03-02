@@ -1,10 +1,10 @@
 [
 	{
-		"name": "test1",
+		"title": "test1",
 		"description": "test2"
 	},
 	{
-		"name": "test2",
+		"title": "test2",
 		"description": "test3"
 	}
 ]
