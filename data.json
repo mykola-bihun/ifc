@@ -1,10 +1,12 @@
 [
 	{
 		"title": "test1",
-		"description": "test2"
+		"description": "test2",
+		"score": "3-0"
 	},
 	{
 		"title": "test2",
-		"description": "test3"
+		"description": "test3",
+		"score": "3-0"
 	}
 ]
