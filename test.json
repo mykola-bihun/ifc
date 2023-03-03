@@ -5,5 +5,19 @@
 		"date": "3 March 2023",
 		"location": "3G Pitch",
 		"score": "0-1"
+	},
+	{
+		"home": "INF",
+    		"away": "SHM",
+		"date": "15 February 2023",
+		"location": "3G Pitch",
+		"score": "1-1"
+	},
+	{
+		"home": "INF",
+    		"away": "SHM",
+		"date": "13 February 2023",
+		"location": "3G Pitch",
+		"score": "0-1"
 	}
 ]
