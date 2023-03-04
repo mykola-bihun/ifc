@@ -5,5 +5,40 @@
 		"date": "6 March",
 		"location": "3G Pitch",
 		"time": "14:10"
+	},
+	{
+		"home": "INF",
+    		"away": "SHM",
+		"date": "8 March",
+		"location": "3G Pitch",
+		"time": "09:10"
+	},
+	{
+		"home": "INF",
+    		"away": "SHM",
+		"date": "10 March",
+		"location": "3G Pitch",
+		"time": "11:30"
+	},
+		{
+		"home": "INF",
+    		"away": "SHM",
+		"date": "17 March",
+		"location": "3G Pitch",
+		"time": "11:30"
+	},
+	{
+		"home": "INF",
+    		"away": "SHM",
+		"date": "20 March",
+		"location": "3G Pitch",
+		"time": "14:10"
+	},
+	{
+		"home": "INF",
+    		"away": "SHM",
+		"date": "21 March",
+		"location": "Clifford Billings Arena",
+		"time": "13:10"
 	}
 ]
