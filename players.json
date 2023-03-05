@@ -6,7 +6,12 @@
         "height": "5'9",
         "goals": "0",
         "assists": "0",
-        "goalHistory": []
+        "goalHistory": [
+            {
+                "date": "3 March 2023",
+                "description": "Conceded 1 against Shmuck F.C."
+            }
+        ]
     },
     {
         "name": "Declan P",
