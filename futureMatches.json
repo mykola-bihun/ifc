@@ -74,7 +74,9 @@
         			"number": "9",
         			"position": "CAM",
         			"name": "SPENCER C"
-      			},
+      			}
+    		],
+		"substitutes": [
 			{
         			"number": "?",
         			"position": "SUB",
@@ -89,7 +91,7 @@
         			"number": "?",
         			"position": "SUB",
         			"name": "ARCHIE N"
-      			},
-    		]
+      			}
+		]
   	}
 ]
