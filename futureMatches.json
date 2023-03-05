@@ -79,16 +79,16 @@
     		],
 		"substitutes": [
 			{
-        			"number": "?",
+        			"number": "88",
         			"name": "LEWIS W"
+      			},
+			{
+        			"number": "365",
+        			"name": "ARCHIE N"
       			},
 			{
         			"number": "420",
         			"name": "JOE P"
-      			},
-			{
-        			"number": "?",
-        			"name": "ARCHIE N"
       			}
 		]
   	},
