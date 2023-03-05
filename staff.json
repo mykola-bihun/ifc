@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Montgom",
+        "position": "Manager",
+        "statsAvailable": true,
+        "wins": "0",
+        "draws": "0",
+        "losses": "1"
+    },
+    {
+        "name": "George",
+        "position": "Assistant Manager",
+        "statsAvailable": false,
+        "wins": "0",
+        "draws": "0",
+        "losses": "0"
+    },
+    {
+        "name": "Will F",
+        "position": "Staff without Portfolio",
+        "statsAvailable": false,
+        "wins": "0",
+        "draws": "0",
+        "losses": "0"
+    }
+]
