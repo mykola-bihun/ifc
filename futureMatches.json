@@ -79,17 +79,14 @@
 		"substitutes": [
 			{
         			"number": "?",
-        			"position": "SUB",
         			"name": "LEWIS W"
       			},
 			{
         			"number": "?",
-        			"position": "SUB",
         			"name": "JOE P"
       			},
 			{
         			"number": "?",
-        			"position": "SUB",
         			"name": "ARCHIE N"
       			}
 		]
