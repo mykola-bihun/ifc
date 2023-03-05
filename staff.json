@@ -2,6 +2,7 @@
     {
         "name": "Montgom",
         "position": "Manager",
+        "bio": "A natural, born leader, Montgom displays wise control in the centre of the pitch allowing the rest of the team to move up quickly with the ball, and providing blocks to defend the counter attack.",
         "statsAvailable": true,
         "wins": "0",
         "draws": "1",
@@ -20,6 +21,7 @@
     {
         "name": "George",
         "position": "Assistant Manager",
+        "bio": "",
         "statsAvailable": false,
         "wins": "0",
         "draws": "0",
@@ -29,6 +31,7 @@
     {
         "name": "Will F",
         "position": "Staff without Portfolio",
+        "bio": "",
         "statsAvailable": false,
         "wins": "0",
         "draws": "0",
