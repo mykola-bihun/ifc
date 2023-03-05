@@ -35,7 +35,7 @@
     {
         "name": "Joe H",
         "number": "7",
-        "bio": "",
+        "bio": "Playing in many different places around the pitch, Joe is good at blocking the ball and playing up and down the wing.",
         "position": "CM",
         "height": "5'9",
         "goals": "0",
@@ -70,7 +70,7 @@
     {
         "name": "Zack R",
         "number": "10",
-        "bio": "",
+        "bio": "A very versatile and pacy player, Zack normally plays right midfield but has been known to play right wing. He is a very attacking-minded player with a natural ability for finishing and crossing. He is one of the key players for keeping possession.",
         "position": "CM",
         "height": "Unknown",
         "goals": "0",
@@ -80,7 +80,7 @@
     {
         "name": "Alfie S",
         "number": "12",
-        "bio": "",
+        "bio": "Small, pacy and strong, Alfie is the perfect midfielder. He fills in gaps left on a counter attack and is able to play in very intense and high pressure situations.",
         "position": "CM",
         "height": "Unknown",
         "goals": "0",
@@ -90,7 +90,7 @@
     {
         "name": "Max W",
         "number": "33",
-        "bio": "",
+        "bio": "Max is an absolute freight train in defence. He won’t stop for anyone. His clearances and headers cement him as a starting CB for the Infidels'. He has great chemistry with the rest of the defence and occasionally picks a pass which triggers a counter attack.",
         "position": "CB",
         "height": "Unknown",
         "goals": "0",
@@ -100,7 +100,7 @@
     {
         "name": "Nguyen",
         "number": "67",
-        "bio": "",
+        "bio": "Kenny plays a vital role in neutralising the threat on the right hand side of the pitch. He’s got very good close control and is able to play down the line for nearly the length of the pitch. One of the packer defenders, he is able to play as a wing back and allow the RM/RW to play even higher, adding a new layer of attacking threat.",
         "position": "CB",
         "height": "Unknown",
         "goals": "0",
@@ -145,7 +145,7 @@
     {
         "name": "Archie N",
         "number": "365",
-        "bio": "",
+        "bio": "Another very physically strong player, Archie is a strong CB capable of putting in last ditch tackles in the box. He is never afraid of getting a yellow card to benefit the team.",
         "position": "CB",
         "height": "5'9",
         "goals": "0",
@@ -155,7 +155,7 @@
     {
         "name": "Joe P",
         "number": "420",
-        "bio": "",
+        "bio": "An incredible talent signed from Shmuck F.C., Joe is an excellent distributor and holder of the ball. His primary purpose is to transport the ball from midfield to an attacking situation, and add a ferocity to the team in the second half when everyone is tired. He uses skill very well and can also play defensively under high pressure situations.",
         "position": "CAM",
         "height": "Unknown",
         "goals": "0",
