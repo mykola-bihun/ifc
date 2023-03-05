@@ -10,6 +10,16 @@
         			"number": "10",
         			"position": "PM",
         			"name": "BORIS JOHNSON"
+      			},
+			{
+        			"number": "9",
+        			"position": "ST",
+        			"name": "RISHI SUNAK"
+      			},
+			{
+        			"number": "11",
+        			"position": "FU",
+        			"name": "DOMINIC RAAB"
       			}
     		]
   	}
