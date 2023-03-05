@@ -6,5 +6,21 @@
         "height": "4'11",
         "goals": "-2",
         "assists": "0"
+    },
+    {
+        "name": "Dominic Raab",
+        "number": "11",
+        "position": "Deputy Prime Minister",
+        "height": "5'11",
+        "goals": "-40",
+        "assists": "2"
+    },
+    {
+        "name": "Rishi Sunak",
+        "number": "9",
+        "position": "Fake Prime Minister",
+        "height": "3'11",
+        "goals": "1",
+        "assists": "0"
     }
 ]
