@@ -1,0 +1,165 @@
+[
+    {
+        "name": "Adam N",
+        "number": "1",
+        "bio": "A brilliant shot stopper and excellent in 1-on-1 situations, Adam has been key in saving the Infidels' this season. If not for him, things could’ve been a lot worse. He is also versatile, able to play both infield and outfield.",
+        "position": "GK",
+        "height": "5'9",
+        "goals": "3",
+        "assists": "0",
+        "goalHistory": [
+            {
+              "date": "13 February 2023",
+              "description": "Conceded 1 against Shmuck F.C."
+            },
+            {
+              "date": "15 February 2023",
+              "description": "Conceded 1 against Shmuck F.C."
+            },
+            {
+                "date": "3 March 2023",
+                "description": "Conceded 1 against Shmuck F.C."
+            }
+        ]
+    },
+    {
+        "name": "Declan P",
+        "number": "4",
+        "bio": "Declan has second to none physicality as well as being very defensively intelligent. He is exceptionally good at intercepting and has made 4 goal line blocks in 3 games.",
+        "position": "CB",
+        "height": "5'10",
+        "goals": "0",
+        "assists": "0",
+        "goalHistory": []
+    },
+    {
+        "name": "Joe H",
+        "number": "7",
+        "bio": "",
+        "position": "CM",
+        "height": "Unknown",
+        "goals": "0",
+        "assists": "0",
+        "goalHistory": []
+    },
+    {
+        "name": "Isaac BMT",
+        "number": "8",
+        "bio": "With his unmatched pace and vision, Isaac is a key part of any winning side. He is very easy to implement into any squad. A very well-rounded player, he is agile and can easily skip away from defenders and has been a key contributor to most attacking opportunities this season.",
+        "position": "CM",
+        "height": "Unknown",
+        "goals": "0",
+        "assists": "0",
+        "goalHistory": []
+    },
+    {
+        "name": "Spencer C",
+        "number": "9",
+        "bio": "Spencer is an academy footballer, with football flowing through his veins. Composure on the ball, close control, and powerful finishing are his key attributes. Although he would normally play upfront, Spencer has sacrificed his preferred position and sat deeper in the formation for the good of the team, displaying his love for the club. He has so far been a very influential player.",
+        "position": "CAM",
+        "height": "6'0",
+        "goals": "0",
+        "assists": "1",
+        "goalHistory": [
+            {
+                "date": "15 February 2023",
+                "description": "Assisted 1 against Shmuck F.C."
+            }
+        ]
+    },
+    {
+        "name": "Zack R",
+        "number": "10",
+        "bio": "",
+        "position": "CM",
+        "height": "Unknown",
+        "goals": "0",
+        "assists": "0",
+        "goalHistory": []
+    },
+    {
+        "name": "Alfie S",
+        "number": "12",
+        "bio": "",
+        "position": "CM",
+        "height": "Unknown",
+        "goals": "0",
+        "assists": "0",
+        "goalHistory": []
+    },
+    {
+        "name": "Max W",
+        "number": "33",
+        "bio": "",
+        "position": "CB",
+        "height": "Unknown",
+        "goals": "0",
+        "assists": "0",
+        "goalHistory": []
+    },
+    {
+        "name": "Nguyen",
+        "number": "67",
+        "bio": "",
+        "position": "CB",
+        "height": "Unknown",
+        "goals": "0",
+        "assists": "0",
+        "goalHistory": []
+    },
+    {
+        "name": "Guzini",
+        "number": "69",
+        "bio": "Guzini is the defensive powerhouse of the team, a great leader and a strong voice. This all adds up to create an exceptional player. Guz tends to play long balls from inside his own half and has commanded his defence so well that he has been able to move up into a CDM role.",
+        "position": "CB",
+        "height": "6'1",
+        "goals": "0",
+        "assists": "0",
+        "goalHistory": []
+    },
+    {
+        "name": "Lewis W",
+        "number": "88",
+        "bio": "Lewis is a figurehead for stability and control under pressure. He continues to show why he is good enough to fit into the Infidels' back 4. He is known for his no nonsense tackles ansd always gets the crowd going.",
+        "position": "CB",
+        "height": "Unknown",
+        "goals": "0",
+        "assists": "0",
+        "goalHistory": []
+    },
+    {
+        "name": "Ollie H",
+        "number": "100",
+        "bio": "A well respected teammate, Ollie consistently puts in 100% into every game. He has a very important aggression which he uses high up the pitch to press and win the ball back, converting opposition possession into a counter attack. He is the man you want at the end of a corner, connecting with 4 corners in 3 games, more than anyone else in either team. Overall, he is a leader and key in increasing team morale.",
+        "position": "CM",
+        "height": "Unknown",
+        "goals": "1",
+        "assists": "0",
+        "goalHistory": [
+            {
+                "date": "15 February 2023",
+                "description": "Scored 1 against Shmuck F.C."
+            }
+        ]
+    },
+    {
+        "name": "Archie N",
+        "number": "365",
+        "bio": "",
+        "position": "CB",
+        "height": "Unknown",
+        "goals": "0",
+        "assists": "0",
+        "goalHistory": []
+    },
+    {
+        "name": "Joe P",
+        "number": "420",
+        "bio": "",
+        "position": "CAM",
+        "height": "Unknown",
+        "goals": "0",
+        "assists": "0",
+        "goalHistory": []
+    }
+]
