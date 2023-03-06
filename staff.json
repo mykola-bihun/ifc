@@ -4,7 +4,7 @@
         "position": "Manager",
         "bio": "Taking after his WW2 general namesake, Bernard Montgomery, Montgom moved into management after following the well know addage, 'Those who can't play, manage' in early February. Although yet to fruit some results, the board has full confidence in Montgom. Vive le Montgom!",
         "statsAvailable": true,
-        "wins": "0",
+        "wins": "1",
         "draws": "1",
         "losses": "1",
         "matchHistory": [
@@ -15,6 +15,10 @@
             {
                 "date": "3 March 2023",
                 "description": "Lost 1-0 to Shmuck F.C."
+            },
+            {
+                "date": "6 March 2023",
+                "description": "Won 1-0 against Shmuck F.C."
             }
         ]
     },
@@ -22,20 +26,30 @@
         "name": "George",
         "position": "Assistant Manager",
         "bio": "George's playing career has sadly had to come to an end with his recent injury. He will be a valuable addition to the management team bringing with him his strong tactical awareness.",
-        "statsAvailable": false,
-        "wins": "0",
+        "statsAvailable": true,
+        "wins": "1",
         "draws": "0",
         "losses": "0",
-        "matchHistory": []
+        "matchHistory": [
+            {
+                "date": "6 March 2023",
+                "description": "Won 1-0 against Shmuck F.C."
+            }
+        ]
     },
     {
         "name": "Will F",
         "position": "Staff without Portfolio",
         "bio": "Will brings the 'zest' to Infidels F.C. management team. Tall, dark and hansome, Will has many aspirations",
-        "statsAvailable": false,
-        "wins": "0",
+        "statsAvailable": true,
+        "wins": "1",
         "draws": "0",
         "losses": "0",
-        "matchHistory": []
+        "matchHistory": [
+            {
+                "date": "6 March 2023",
+                "description": "Won 1-0 against Shmuck F.C."
+            }
+        ]
     }
 ]
