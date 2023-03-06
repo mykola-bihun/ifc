@@ -2,6 +2,7 @@
     {
         "name": "Adam N",
         "number": "1",
+        "nickname": "Adamski",
         "bio": "A brilliant shot stopper and excellent in 1-on-1 situations, Adam has been key in saving the Infidels' this season. If not for him, things could’ve been a lot worse. He is also versatile, able to play both infield and outfield.",
         "position": "GK",
         "height": "5'9",
@@ -25,6 +26,7 @@
     {
         "name": "Declan P",
         "number": "4",
+        "nickname": "GorillaGrip",
         "bio": "Declan has second to none physicality as well as being very defensively intelligent. He is exceptionally good at intercepting and has made 4 goal line blocks in 3 games.",
         "position": "CB",
         "height": "5'10",
@@ -35,6 +37,7 @@
     {
         "name": "Joe H",
         "number": "7",
+        "nickname": "",
         "bio": "Playing in many different places around the pitch, Joe is good at blocking the ball and playing up and down the wing.",
         "position": "CM",
         "height": "5'9",
@@ -45,6 +48,7 @@
     {
         "name": "Isaac BMT",
         "number": "8",
+        "nickname": "",
         "bio": "With his unmatched pace and vision, Isaac is a key part of any winning side. He is very easy to implement into any squad. A very well-rounded player, he is agile and can easily skip away from defenders and has been a key contributor to most attacking opportunities this season.",
         "position": "CM",
         "height": "5'11",
@@ -55,14 +59,19 @@
     {
         "name": "Spencer C",
         "number": "9",
+        "nickname": "",
         "bio": "Spencer is an academy footballer, with football flowing through his veins. Composure on the ball, close control, and powerful finishing are his key attributes. Although he would normally play upfront, Spencer has sacrificed his preferred position and sat deeper in the formation for the good of the team, displaying his love for the club. He has so far been a very influential player.",
         "position": "CAM",
         "height": "5'8",
         "goals": "0",
-        "assists": "1",
+        "assists": "2",
         "goalHistory": [
             {
                 "date": "15 February 2023",
+                "description": "Assisted 1 against Shmuck F.C."
+            },
+            {
+                "date": "6 March 2023",
                 "description": "Assisted 1 against Shmuck F.C."
             }
         ]
@@ -70,6 +79,7 @@
     {
         "name": "Zack R",
         "number": "10",
+        "nickname": "",
         "bio": "A very versatile and pacy player, Zack normally plays right midfield but has been known to play right wing. He is a very attacking-minded player with a natural ability for finishing and crossing. He is one of the key players for keeping possession.",
         "position": "CM",
         "height": "Unknown",
@@ -80,6 +90,7 @@
     {
         "name": "Alfie S",
         "number": "12",
+        "nickname": "",
         "bio": "Small, pacy and strong, Alfie is the perfect midfielder. He fills in gaps left on a counter attack and is able to play in very intense and high pressure situations.",
         "position": "CM",
         "height": "5'1",
@@ -100,6 +111,7 @@
     {
         "name": "Nguyen",
         "number": "67",
+        "nickname": "",
         "bio": "Kenny plays a vital role in neutralising the threat on the right hand side of the pitch. He’s got very good close control and is able to play down the line for nearly the length of the pitch. One of the packer defenders, he is able to play as a wing back and allow the RM/RW to play even higher, adding a new layer of attacking threat.",
         "position": "CB",
         "height": "Unknown",
@@ -108,8 +120,9 @@
         "goalHistory": []
     },
     {
-        "name": "Guzini",
+        "name": "Sohail",
         "number": "69",
+        "nickname": "Guzini",
         "bio": "Guzini is the defensive powerhouse of the team, a great leader and a strong voice. This all adds up to create an exceptional player. Guz tends to play long balls from inside his own half and has commanded his defence so well that he has been able to move up into a CDM role.",
         "position": "CB",
         "height": "6'1",
@@ -120,6 +133,7 @@
     {
         "name": "Lewis W",
         "number": "88",
+        "nickname": "",
         "bio": "Lewis is a figurehead for stability and control under pressure. He continues to show why he is good enough to fit into the Infidels' back 4. He is known for his no nonsense tackles ansd always gets the crowd going.",
         "position": "CB",
         "height": "5'10",
@@ -130,6 +144,7 @@
     {
         "name": "Ollie H",
         "number": "100",
+        "nickname": "Ollie Ton",
         "bio": "A well respected teammate, Ollie consistently puts in 100% into every game. He has a very important aggression which he uses high up the pitch to press and win the ball back, converting opposition possession into a counter attack. He is the man you want at the end of a corner, connecting with 4 corners in 3 games, more than anyone else in either team. Overall, he is a leader and key in increasing team morale.",
         "position": "CM",
         "height": "6'0",
@@ -149,6 +164,7 @@
     {
         "name": "Archie N",
         "number": "365",
+        "nickname": "",
         "bio": "Another very physically strong player, Archie is a strong CB capable of putting in last ditch tackles in the box. He is never afraid of getting a yellow card to benefit the team.",
         "position": "CB",
         "height": "5'9",
@@ -159,6 +175,7 @@
     {
         "name": "Joe P",
         "number": "420",
+        "nickname": "",
         "bio": "An incredible talent signed from Shmuck F.C., Joe is an excellent distributor and holder of the ball. His primary purpose is to transport the ball from midfield to an attacking situation, and add a ferocity to the team in the second half when everyone is tired. He uses skill very well and can also play defensively under high pressure situations.",
         "position": "CAM",
         "height": "Unknown",
