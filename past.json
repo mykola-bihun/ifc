@@ -1,6 +1,13 @@
 [
 	{
 		"home": "INF",
+		"away": "SHM",
+		"date": "6 March",
+		"location": "3G Pitch",
+		"score": "1-0"
+	},
+	{
+		"home": "INF",
     		"away": "SHM",
 		"date": "3 March",
 		"location": "3G Pitch",
