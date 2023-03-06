@@ -133,11 +133,15 @@
         "bio": "A well respected teammate, Ollie consistently puts in 100% into every game. He has a very important aggression which he uses high up the pitch to press and win the ball back, converting opposition possession into a counter attack. He is the man you want at the end of a corner, connecting with 4 corners in 3 games, more than anyone else in either team. Overall, he is a leader and key in increasing team morale.",
         "position": "CM",
         "height": "6'0",
-        "goals": "1",
+        "goals": "2",
         "assists": "0",
         "goalHistory": [
             {
                 "date": "15 February 2023",
+                "description": "Scored 1 against Shmuck F.C."
+            },
+            {
+                "date": "6 March 2023",
                 "description": "Scored 1 against Shmuck F.C."
             }
         ]
