@@ -8,6 +8,14 @@
         "assists": "0",
         "goalHistory": [
             {
+                "date": "13 February 2023",
+                "description": "Conceded 1 against Shmuck F.C."
+            },
+            {
+                "date": "15 February 2023",
+                "description": "Conceded 1 against Shmuck F.C."
+            },
+            {
                 "date": "3 March 2023",
                 "description": "Conceded 1 against Shmuck F.C."
             }
@@ -113,11 +121,15 @@
         "number": "100",
         "position": "CM",
         "height": "Unknown",
-        "goals": "1",
+        "goals": "2",
         "assists": "0",
         "goalHistory": [
             {
                 "date": "15 February 2023",
+                "description": "Scored 1 against Shmuck F.C."
+            },
+            {
+                "date": "6 March 2023",
                 "description": "Scored 1 against Shmuck F.C."
             }
         ]
