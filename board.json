@@ -1,8 +1,44 @@
 [
     {
-        "name": "",
-        "position": "",
+        "name": "Mykola B",
+        "position": "Chairman",
         "bio": "",
-        "statsAvailable": true,
+        "statsAvailable": false,
+    },
+    {
+        "name": "Spencer C",
+        "position": "Sporting Director",
+        "bio": "",
+        "statsAvailable": false,
+    },
+    {
+        "name": "Joe H",
+        "position": "Marketing Director",
+        "bio": "",
+        "statsAvailable": false,
+    },
+    {
+        "name": "Ollie H",
+        "position": "Elected Memeber",
+        "bio": "",
+        "statsAvailable": false,
+    },
+        {
+        "name": "George",
+        "position": "Elected Memeber",
+        "bio": "",
+        "statsAvailable": false,
+    },
+    {
+        "name": "Katie B",
+        "position": "Non Voting Memeber",
+        "bio": "",
+        "statsAvailable": false,
+    },
+    {
+        "name": "Montgom",
+        "position": "Non Voting Memeber",
+        "bio": "",
+        "statsAvailable": false,
     }
 ]
