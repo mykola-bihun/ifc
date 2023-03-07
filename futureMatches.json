@@ -5,7 +5,7 @@
 		"matchDate": "8 March",
 		"location": "3G Pitch",
 		"time": "09:10",
-		"lineupAvailable": false,
+		"lineupAvailable": true,
 		"staff": [
 			{
 				"position": "Manager",
