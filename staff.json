@@ -5,7 +5,7 @@
         "nickname": "Le Montgom",
         "bio": "Taking after his WW2 general namesake, Bernard Montgomery, Montgom moved into management after following the well know addage, 'Those who can't play, manage' in early February. Although yet to fruit some results, the board has full confidence in Montgom. Vive le Montgom!",
         "statsAvailable": true,
-        "wins": "1",
+        "wins": "2",
         "draws": "1",
         "losses": "1",
         "matchHistory": [
@@ -20,6 +20,10 @@
             {
                 "date": "6 March 2023",
                 "description": "Won 1-0 against Shmuck F.C."
+            },
+            {
+                "date": "8 March 2023",
+                "description": "Won 3-0 against Shmuck F.C."
             }
         ]
     },
@@ -29,13 +33,17 @@
         "nickname": "",
         "bio": "George's playing career has sadly had to come to an end with his recent injury. He will be a valuable addition to the management team bringing with him his strong tactical awareness.",
         "statsAvailable": true,
-        "wins": "1",
+        "wins": "2",
         "draws": "0",
         "losses": "0",
         "matchHistory": [
             {
                 "date": "6 March 2023",
                 "description": "Won 1-0 against Shmuck F.C."
+            },
+            {
+                "date": "8 March 2023",
+                "description": "Won 3-0 against Shmuck F.C."
             }
         ]
     },
@@ -45,13 +53,17 @@
         "nickname": "",
         "bio": "Will brings the 'zest' to Infidels F.C. management team. Tall, dark and hansome, Will has many aspirations. Being part of the Infidels family is just one of them.",
         "statsAvailable": true,
-        "wins": "1",
+        "wins": "2",
         "draws": "0",
         "losses": "0",
         "matchHistory": [
             {
                 "date": "6 March 2023",
                 "description": "Won 1-0 against Shmuck F.C."
+            },
+            {
+                "date": "8 March 2023",
+                "description": "Won 3-0 against Shmuck F.C."
             }
         ]
     }
