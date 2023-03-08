@@ -1,4 +1,4 @@
 # ifc
 
-DO NOT USE ``playerData.json`` and ``past.json`` UNTIL I GIVE THE ALL CLEAR
-- THESE ARE TESTING FILES ONLY
+DO NOT USE ``players.json`` and ``test.json``
+- THESE ARE NOT IN USE ANYMORE
