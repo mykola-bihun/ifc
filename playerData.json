@@ -52,9 +52,14 @@
         "bio": "With his unmatched pace and vision, Isaac is a key part of any winning side. He is very easy to implement into any squad. A very well-rounded player, he is agile and can easily skip away from defenders and has been a key contributor to most attacking opportunities this season.",
         "position": "CM",
         "height": "5'11",
-        "goals": "0",
+        "goals": "1",
         "assists": "0",
-        "goalHistory": []
+        "goalHistory": [
+            {
+                "date": "8 March 2023",
+                "description": "Scored 1 against Shmuck F.C."
+            }
+        ]
     },
     {
         "name": "Spencer C",
@@ -64,7 +69,7 @@
         "position": "CAM",
         "height": "5'8",
         "goals": "0",
-        "assists": "2",
+        "assists": "3",
         "goalHistory": [
             {
                 "date": "15 February 2023",
@@ -72,6 +77,10 @@
             },
             {
                 "date": "6 March 2023",
+                "description": "Assisted 1 against Shmuck F.C."
+            },
+            {
+                "date": "8 March 2023",
                 "description": "Assisted 1 against Shmuck F.C."
             }
         ]
@@ -84,8 +93,13 @@
         "position": "CM",
         "height": "Unknown",
         "goals": "0",
-        "assists": "0",
-        "goalHistory": []
+        "assists": "2",
+        "goalHistory": [
+            {
+                "date": "8 March 2023",
+                "description": "Assisted 2 against Shmuck F.C."
+            }
+        ]
     },
     {
         "name": "Alfie S",
@@ -149,7 +163,7 @@
         "bio": "A well respected teammate, Ollie consistently puts in 100% into every game. He has a very important aggression which he uses high up the pitch to press and win the ball back, converting opposition possession into a counter attack. He is the man you want at the end of a corner, connecting with 4 corners in 3 games, more than anyone else in either team. Overall, he is a leader and key in increasing team morale.",
         "position": "CM",
         "height": "6'0",
-        "goals": "2",
+        "goals": "4",
         "assists": "0",
         "goalHistory": [
             {
@@ -159,6 +173,10 @@
             {
                 "date": "6 March 2023",
                 "description": "Scored 1 against Shmuck F.C."
+            },
+            {
+                "date": "8 March 2023",
+                "description": "Scored 2 against Shmuck F.C."
             }
         ]
     },
