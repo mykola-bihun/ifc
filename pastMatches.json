@@ -5,7 +5,7 @@
 		"date": "8 March",
 		"location": "3G Pitch",
 		"score": "3-0",
-		"dataAvailable": false,
+		"dataAvailable": true,
 		"goals": [
 			{
 			   "name": "Ollie H",
