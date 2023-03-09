@@ -6,6 +6,8 @@
 		"location": "3G Pitch",
 		"score": "3-0",
 		"dataAvailable": true,
+		"onTarget": "4",
+		"shots": "7",
 		"goals": [
 			{
 			   "name": "Ollie H",
@@ -16,7 +18,17 @@
 			    "goals": "1"
 			}
 		],
-				"staff": [
+		"assists": [
+			{
+				"name": "Zack R",
+				"assists": "2"
+			},
+			{
+				"name": "Spencer C",
+				"assists": "1"
+			}
+		],
+		"staff": [
 			{
 				"position": "Manager",
 				"name": "MONTGOM"
@@ -109,10 +121,18 @@
 		"location": "3G Pitch",
     		"dataAvailable": true,
 		"score": "1-0",
+		"onTarget": "2",
+		"shots": "6",
 		"goals": [
 			{
 				"name": "Ollie H",
 				"goals": "1"
+			}
+		],
+		"assists": [
+			{
+				"name": "Spencer C",
+				"assists": "1"
 			}
 		],
 		"staff": [
@@ -208,7 +228,10 @@
 		"location": "3G Pitch",
     		"dataAvailable": false,
 		"score": "0-1",
+		"onTarget": "0",
+		"shots": "0",
 		"goals": [],
+		"assists": [],
 		"staff": [],
 		"lineup": [],
 		"substitutes": []
@@ -221,6 +244,9 @@
     		"dataAvailable": false,
 		"score": "1-1",
 		"goals": [],
+		"onTarget": "0",
+		"shots": "0",
+		"assists": [],
 		"staff": [],
 		"lineup": [],
 		"substitutes": []
@@ -233,6 +259,9 @@
     		"dataAvailable": false,
 		"score": "0-1",
 		"goals": [],
+		"onTarget": "0",
+		"shots": "0",
+		"assists": [],
 		"staff": [],
 		"lineup": [],
 		"substitutes": []
