@@ -6,9 +6,91 @@
 		"location": "3G Pitch",
 		"time": "11:30",
 		"lineupAvailable": false,
-		"staff": [],
-		"lineup": [],
-		"substitutes": []
+		"staff": [
+			{
+				"position": "Manager",
+				"name": "MONTGOM"
+			},
+			{
+				"position": "Assistant Manager",
+				"name": "GEORGE"
+			},
+			{
+				"position": "Staff without Portfolio",
+				"name": "WILL F"
+			}
+		],
+    		"lineup": [
+      			{
+        			"number": "1",
+        			"position": "GK",
+        			"name": "ADAM N"
+      			},
+			{
+        			"number": "420",
+        			"position": "LB",
+        			"name": "JOEY P"
+      			},
+			{
+        			"number": "4",
+        			"position": "CB",
+        			"name": "DECLAN P"
+      			},
+			{
+        			"number": "69",
+        			"position": "CB",
+        			"name": "GUZZINI"
+      			},
+			{
+        			"number": "67",
+        			"position": "RB",
+        			"name": "NGUYEN"
+      			},
+			{
+        			"number": "12",
+        			"position": "CM",
+        			"name": "Alfie S"
+      			},
+			{
+        			"number": "33",
+        			"position": "CDM",
+        			"name": "MAX W"
+      			},
+			{
+        			"number": "8",
+        			"position": "CAM",
+        			"name": "ISAAC BMT"
+      			},
+			{
+        			"number": "9",
+        			"position": "CF",
+        			"name": "SPENCER C"
+      			},
+			{
+        			"number": "100",
+        			"position": "CF",
+        			"name": "OLLIE H"
+      			},
+			{
+        			"number": "10",
+        			"position": "ST",
+        			"name": "ZACK R"
+      			}
+    		],
+		"substitutes": [
+			{
+        			"number": "88",
+        			"name": "LEWIS W"
+      			},
+			{
+        			"number": "365",
+        			"name": "ARCHIE N"
+      			},
+			{
+        			"number": "7",
+        			"name": "JOE H"
+      			}
+		]
 	},
 		{
 		"home": "INF",
