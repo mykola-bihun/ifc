@@ -23,7 +23,8 @@
 		"date": "6 March",
 		"location": "3G Pitch",
     		"dataAvailable": false,
-		"score": "1-0"
+		"score": "1-0",
+		"goals": []
 	},
 	{
 		"home": "INF",
@@ -31,7 +32,8 @@
 		"date": "3 March",
 		"location": "3G Pitch",
     		"dataAvailable": false,
-		"score": "0-1"
+		"score": "0-1",
+		"goals": []
 	},
 	{
 		"home": "INF",
@@ -39,7 +41,8 @@
 		"date": "15 February",
 		"location": "3G Pitch",
     		"dataAvailable": false,
-		"score": "1-1"
+		"score": "1-1",
+		"goals": []
 	},
 	{
 		"home": "INF",
@@ -47,6 +50,7 @@
 		"date": "13 February",
 		"location": "3G Pitch",
     		"dataAvailable": false,
-		"score": "0-1"
+		"score": "0-1",
+		"goals": []
 	}
 ]
