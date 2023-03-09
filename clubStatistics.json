@@ -1,26 +1,28 @@
-{
-  "topScorer": {
-    "name": "Ollie H",
-    "goals": "4"
-  },
-  "topAssists": {
-    "name": "Spencer C",
-    "assists": "3"
-  },
-    "topShots": {
-    "name": "Coming soon...",
-    "goals": "0"
-  },
-    "topTackles": {
-    "name": "Coming soon...",
-    "goals": "0"
-  },
-    "topSaves": {
-    "name": "Adam N",
-    "goals": "0"
-  },
-    "topWood": {
-    "name": "Coming soon...",
-    "goals": "0"
-  },
-}
+[
+  {
+    "topScorer": {
+      "name": "Ollie H",
+      "goals": "4"
+    },
+    "topAssists": {
+      "name": "Spencer C",
+      "assists": "3"
+    },
+      "topShots": {
+      "name": "Coming soon...",
+      "goals": "0"
+    },
+      "topTackles": {
+      "name": "Coming soon...",
+      "goals": "0"
+    },
+      "topSaves": {
+      "name": "Adam N",
+      "goals": "0"
+    },
+      "topWood": {
+      "name": "Coming soon...",
+      "goals": "0"
+    },
+  }
+]
