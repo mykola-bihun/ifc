@@ -5,7 +5,7 @@
         "nickname": "Le Montgom",
         "bio": "Taking after his WW2 general namesake, Bernard Montgomery, Montgom moved into management after following the well know addage, 'Those who can't play, manage' in early February. Although yet to fruit some results, the board has full confidence in Montgom. Vive le Montgom!",
         "statsAvailable": true,
-        "wins": "2",
+        "wins": "3",
         "draws": "1",
         "losses": "1",
         "matchHistory": [
@@ -24,6 +24,10 @@
             {
                 "date": "8 March 2023",
                 "description": "Won 3-0 against Shmuck F.C."
+            },
+            {
+                "date": "10 March 2023",
+                "description": "Won 2-0 against Shmuck F.C."
             }
         ]
     },
@@ -33,7 +37,7 @@
         "nickname": "",
         "bio": "New bio coming soon",
         "statsAvailable": true,
-        "wins": "2",
+        "wins": "3",
         "draws": "0",
         "losses": "0",
         "matchHistory": [
@@ -44,6 +48,10 @@
             {
                 "date": "8 March 2023",
                 "description": "Won 3-0 against Shmuck F.C."
+            },
+            {
+                "date": "10 March 2023",
+                "description": "Won 2-0 against Shmuck F.C."
             }
         ]
     },
@@ -53,7 +61,7 @@
         "nickname": "",
         "bio": "Will brings the 'zest' to Infidels F.C. management team. Tall, dark and hansome, Will has many aspirations. Being part of the Infidels family is just one of them.",
         "statsAvailable": true,
-        "wins": "2",
+        "wins": "3",
         "draws": "0",
         "losses": "0",
         "matchHistory": [
@@ -64,6 +72,10 @@
             {
                 "date": "8 March 2023",
                 "description": "Won 3-0 against Shmuck F.C."
+            },
+            {
+                "date": "10 March 2023",
+                "description": "Won 2-0 against Shmuck F.C."
             }
         ]
     }
