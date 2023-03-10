@@ -13,8 +13,8 @@
       "goals": "0"
     },
       "topTackles": {
-      "name": "Coming soon...",
-      "goals": "0"
+      "name": "Max W",
+      "goals": "8"
     },
       "topSaves": {
       "name": "Adam N",
@@ -23,6 +23,15 @@
       "topWood": {
       "name": "Coming soon...",
       "goals": "0"
-    }
+    },
+    "topFouls": {
+      "name": "Max W",
+      "goals": "5"
+    },
+    {
+      "topCards": {
+      "name": "Max W",
+      "goals": "3"
+  }
   }
 ]
