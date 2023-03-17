@@ -5,7 +5,7 @@
 		"matchDate": "17 March",
 		"location": "3G Pitch",
 		"time": "11:30",
-		"lineupAvailable": false,
+		"lineupAvailable": true,
 		"staff": [
 			{
 				"position": "Manager",
@@ -81,6 +81,10 @@
 			{
         			"number": "88",
         			"name": "LEWIS W"
+      			},
+			{
+        			"number": "7",
+        			"name": "JOE H"
       			},
 			{
         			"number": "365",
