@@ -27,9 +27,9 @@
         			"name": "ADAM N"
       			},
 			{
-        			"number": "420",
+        			"number": "365",
         			"position": "LB",
-        			"name": "JOEY P"
+        			"name": "ARCHIE N"
       			},
 			{
         			"number": "4",
@@ -37,9 +37,9 @@
         			"name": "DECLAN P"
       			},
 			{
-        			"number": "69",
+        			"number": "88",
         			"position": "CB",
-        			"name": "GUZZINI"
+        			"name": "LEWIS W"
       			},
 			{
         			"number": "67",
@@ -47,33 +47,33 @@
         			"name": "NGUYEN"
       			},
 			{
-        			"number": "12",
-        			"position": "CM",
-        			"name": "ALFIE S"
+        			"number": "420",
+        			"position": "LDM",
+        			"name": "JOEY P"
       			},
 			{
-        			"number": "33",
-        			"position": "CB",
-        			"name": "MAX W"
+        			"number": "69",
+        			"position": "CM",
+        			"name": "GUZZINI"
+      			},
+			{
+        			"number": "7",
+        			"position": "CM",
+        			"name": "JOE H"
+      			},
+			{
+        			"number": "12",
+        			"position": "CAM",
+        			"name": "SHEP"
       			},
 			{
         			"number": "8",
-        			"position": "CAM",
-        			"name": "ISAAC BMT"
-      			},
-			{
-        			"number": "9",
         			"position": "CF",
-        			"name": "SPENCER C"
-      			},
-			{
-        			"number": "100",
-        			"position": "CF",
-        			"name": "OLLIE H"
+        			"name": "IZERK BMT"
       			},
 			{
         			"number": "10",
-        			"position": "ST",
+        			"position": "CF",
         			"name": "ZACK R"
       			}
     		],
@@ -81,15 +81,7 @@
 			{
         			"number": "88",
         			"name": "LEWIS W"
-      			},
-			{
-        			"number": "7",
-        			"name": "JOE H"
-      			},
-			{
-        			"number": "365",
-        			"name": "ARCHIE N"
-			}
+      			}
       		]
 	},
 	{
