@@ -6,7 +6,7 @@
         "bio": "A brilliant shot stopper and excellent in 1-on-1 situations, Adam has been key in saving the Infidels' this season. If not for him, things could’ve been a lot worse. He is also versatile, able to play both infield and outfield.",
         "position": "GK",
         "height": "5'9",
-        "goals": "5",
+        "goals": "8",
         "assists": "0",
         "goalHistory": [
             {
@@ -24,6 +24,10 @@
             {
                 "date": "20 March 2023",
                 "description": "Conceded 2 against Shmuck F.C."
+            },
+            {
+                "date": "22 March 2023",
+                "description": "Conceded 3 against Shmuck F.C."
             }
         ]
     },
@@ -46,8 +50,13 @@
         "position": "CM",
         "height": "5'9",
         "goals": "0",
-        "assists": "0",
-        "goalHistory": []
+        "assists": "1",
+        "goalHistory": [
+            {
+                "date": "22 March 2023",
+                "description": "Assisted 1 against Shmuck F.C."
+            }
+        ]
     },
     {
         "name": "Isaac BMT",
@@ -56,7 +65,7 @@
         "bio": "With his unmatched pace and vision, Isaac is a key part of any winning side. He is very easy to implement into any squad. A very well-rounded player, he is agile and can easily skip away from defenders and has been a key contributor to most attacking opportunities this season.",
         "position": "CM",
         "height": "5'11",
-        "goals": "1",
+        "goals": "2",
         "assists": "1",
         "goalHistory": [
             {
@@ -66,7 +75,11 @@
             {
                 "date": "10 March 2023",
                 "description": "Assisted 1 against Shmuck F.C."
-            }
+            },
+            {
+                "date": "22 March 2023",
+                "description": "Scored 1 against Shmuck F.C."
+            },
         ]
     },
     {
