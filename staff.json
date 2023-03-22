@@ -7,7 +7,7 @@
         "statsAvailable": true,
         "wins": "4",
         "draws": "1",
-        "losses": "2",
+        "losses": "3",
         "matchHistory": [
             {
                 "date": "15 February 2023",
@@ -36,6 +36,10 @@
             {
                 "date": "20 March 2023",
                 "description": "Lost 2-0 to Shmuck F.C."
+            },
+            {
+                "date": "22 March 2023",
+                "description": "Lost 3-1 to Shmuck F.C."
             }
         ]
     },
@@ -47,7 +51,7 @@
         "statsAvailable": true,
         "wins": "4",
         "draws": "0",
-        "losses": "1",
+        "losses": "2",
         "matchHistory": [
             {
                 "date": "6 March 2023",
@@ -68,6 +72,10 @@
             {
                 "date": "20 March 2023",
                 "description": "Lost 2-0 to Shmuck F.C."
+            },
+             {
+                "date": "22 March 2023",
+                "description": "Lost 3-1 to Shmuck F.C."
             }
         ]
     },
@@ -79,8 +87,13 @@
         "statsAvailable": true,
         "wins": "0",
         "draws": "0",
-        "losses": "0",
-        "matchHistory": []
+        "losses": "1",
+        "matchHistory": [
+            {
+                "date": "22 March 2023",
+                "description": "Lost 3-1 to Shmuck F.C."
+            }
+        ]
     },
     {
         "name": "Will F",
@@ -90,7 +103,7 @@
         "statsAvailable": true,
         "wins": "4",
         "draws": "0",
-        "losses": "1",
+        "losses": "2",
         "matchHistory": [
             {
                 "date": "6 March 2023",
@@ -111,6 +124,10 @@
             {
                 "date": "20 March 2023",
                 "description": "Lost 2-0 to Shmuck F.C."
+            },
+            {
+                "date": "22 March 2023",
+                "description": "Lost 3-1 to Shmuck F.C."
             }
         ]
     }
