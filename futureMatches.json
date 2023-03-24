@@ -2,10 +2,10 @@
 	{
 		"home": "INF",
 		"away": "SHM",
-		"matchDate": "24 March",
-		"location": "3G Pitch",
-		"time": "11:20",
-		"lineupAvailable": true,
+		"matchDate": "18 April",
+		"location": "C. Billings Arena",
+		"time": "13:15",
+		"lineupAvailable": false,
 		"staff": [
 			{
 				"position": "Manager",
