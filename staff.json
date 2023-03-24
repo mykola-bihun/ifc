@@ -5,7 +5,7 @@
         "nickname": "Le Montgom",
         "bio": "Taking after his WW2 general namesake, Bernard Montgomery, Montgom moved into management after following the well know addage, 'Those who can't play, manage' in early February. Vive le Montgom!",
         "statsAvailable": true,
-        "wins": "4",
+        "wins": "5",
         "draws": "1",
         "losses": "3",
         "matchHistory": [
@@ -40,6 +40,10 @@
             {
                 "date": "22 March 2023",
                 "description": "Lost 3-1 to Shmuck F.C."
+            },
+            {
+                "date": "24 March 2023",
+                "description": "Won 2-0 against Shmuck F.C."
             }
         ]
     },
@@ -49,7 +53,7 @@
         "nickname": "",
         "bio": "New bio coming soon",
         "statsAvailable": true,
-        "wins": "4",
+        "wins": "5",
         "draws": "0",
         "losses": "2",
         "matchHistory": [
@@ -76,6 +80,10 @@
              {
                 "date": "22 March 2023",
                 "description": "Lost 3-1 to Shmuck F.C."
+            },
+            {
+                "date": "24 March 2023",
+                "description": "Won 2-0 against Shmuck F.C."
             }
         ]
     },
@@ -85,13 +93,17 @@
         "nickname": "",
         "bio": "",
         "statsAvailable": true,
-        "wins": "0",
+        "wins": "1",
         "draws": "0",
         "losses": "1",
         "matchHistory": [
             {
                 "date": "22 March 2023",
                 "description": "Lost 3-1 to Shmuck F.C."
+            },
+            {
+                "date": "24 March 2023",
+                "description": "Won 2-0 against Shmuck F.C."
             }
         ]
     },
@@ -101,7 +113,7 @@
         "nickname": "",
         "bio": "Will brings the 'zest' to Infidels F.C. management team. Tall, dark and hansome, Will has many aspirations. Being part of the Infidels family is just one of them.",
         "statsAvailable": true,
-        "wins": "4",
+        "wins": "5",
         "draws": "0",
         "losses": "2",
         "matchHistory": [
@@ -128,6 +140,10 @@
             {
                 "date": "22 March 2023",
                 "description": "Lost 3-1 to Shmuck F.C."
+            },
+            {
+                "date": "24 March 2023",
+                "description": "Won 2-0 against Shmuck F.C."
             }
         ]
     }
