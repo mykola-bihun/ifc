@@ -5,7 +5,7 @@
 		"date": "24 March",
 		"location": "3G Pitch",
 		"score": "2-0",
-		"dataAvailable": false,
+		"dataAvailable": true,
 		"onTarget": "2",
 		"shots": "0",
 		"goals": [
@@ -16,7 +16,7 @@
 		],
 		"assists": [
 			{
-				"name": "Joe H",
+				"name": "Joe P",
 				"assists": "1"
 			}
 		],
