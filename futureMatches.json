@@ -8,15 +8,15 @@
 		"lineupAvailable": false,
 		"staff": [
 			{
-				"position": "Manager",
+				"position": "Managing Player",
 				"name": "MONTGOM"
 			},
 			{
-				"position": "Assistant Manager",
+				"position": "Assistant Managing Player",
 				"name": "GEORGE"
 			},
 			{
-				"position": "Staff without Portfolio",
+				"position": "Player without Portfolio",
 				"name": "WILL F"
 			}
 		],
@@ -42,6 +42,11 @@
         			"name": "GUZZINI"
       			},
 			{
+        			"number": "33",
+        			"position": "CB",
+        			"name": "MAX W"
+      			},
+			{
         			"number": "67",
         			"position": "RB",
         			"name": "NGUYEN"
@@ -52,9 +57,24 @@
         			"name": "ALFIE S"
       			},
 			{
-        			"number": "33",
-        			"position": "CB",
-        			"name": "MAX W"
+        			"number": "13",
+        			"position": "CM",
+        			"name": "MONTGOM W"
+      			},
+			{
+        			"number": "88",
+        			"position": "CM",
+        			"name": "LEWIS W"
+      			},
+			{
+        			"number": "365",
+        			"position": "CM",
+        			"name": "ARCHIE N"
+      			},
+			{
+        			"number": "??",
+        			"position": "CM",
+        			"name": "WILL F"
       			},
 			{
         			"number": "8",
@@ -79,13 +99,10 @@
     		],
 		"substitutes": [
 			{
-        			"number": "88",
-        			"name": "LEWIS W"
-      			},
-			{
-        			"number": "365",
-        			"name": "ARCHIE N"
+        			"number": "??",
+        			"name": "No Substitutions"
       			}
+
 		]
 	}
 ]
