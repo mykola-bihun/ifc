@@ -91,10 +91,15 @@
         			"position": "CAM",
         			"name": "J HYNES"
       			},
-			{
+									{
         			"number": "100",
         			"position": "CF",
         			"name": "OLLIE H"
+      			},
+									{
+        			"number": "9",
+        			"position": "CF",
+        			"name": "SPENCER C"
       			},
 			{
         			"number": "10",
