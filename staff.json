@@ -7,8 +7,12 @@
         "statsAvailable": true,
         "wins": "5",
         "draws": "1",
-        "losses": "3",
+        "losses": "4",
         "matchHistory": [
+            {
+                "date": "3 May 2023",
+                "description": "Lost 1-0 to Shmuck F.C."
+            },
             {
                 "date": "15 February 2023",
                 "description": "Drew 1-1 against Shmuck F.C."
@@ -55,8 +59,12 @@
         "statsAvailable": true,
         "wins": "5",
         "draws": "0",
-        "losses": "2",
+        "losses": "3",
         "matchHistory": [
+            {
+                "date": "3 May 2023",
+                "description": "Lost 1-0 to Shmuck F.C."
+            },
             {
                 "date": "6 March 2023",
                 "description": "Won 1-0 against Shmuck F.C."
@@ -95,8 +103,12 @@
         "statsAvailable": true,
         "wins": "1",
         "draws": "0",
-        "losses": "1",
+        "losses": "2",
         "matchHistory": [
+            {
+                "date": "3 May 2023",
+                "description": "Lost 1-0 to Shmuck F.C."
+            },
             {
                 "date": "22 March 2023",
                 "description": "Lost 3-1 to Shmuck F.C."
@@ -115,8 +127,12 @@
         "statsAvailable": true,
         "wins": "5",
         "draws": "0",
-        "losses": "2",
+        "losses": "3",
         "matchHistory": [
+                        {
+                "date": "3 May 2023",
+                "description": "Lost 1-0 to Shmuck F.C."
+            },
             {
                 "date": "6 March 2023",
                 "description": "Won 1-0 against Shmuck F.C."
