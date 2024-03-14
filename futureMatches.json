@@ -10,14 +10,6 @@
 			{
 				"position": "Manager",
 				"name": "MONTGOM"
-			},
-			{
-				"position": "Assistant Manager",
-				"name": "GEORGE"
-			},
-			{
-				"position": "Staff without Portfolio",
-				"name": "WILL F"
 			}
 		],
     		"lineup": [
@@ -62,11 +54,6 @@
         			"name": "ISAAC BMT"
       			},
 			{
-        			"number": "7",
-        			"position": "CAM",
-        			"name": "JOE H"
-      			},
-			{
         			"number": "100",
         			"position": "CF",
         			"name": "OLLIE H"
@@ -75,7 +62,17 @@
         			"number": "10",
         			"position": "ST",
         			"name": "ZACK R"
-      			}
+      			},
+			{
+				"number": "7",
+				"position": "ST",
+				"name": "SAMMY J"
+			},
+			{
+				"number": "18",
+				"position": "ST",
+				"name": "KATIE R"
+			}
     		],
 		"substitutes": [
 			{
